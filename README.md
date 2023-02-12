@@ -7,7 +7,7 @@ This is an interactive work that repurposes a 1950s Bell Manufacturing Company t
 
 The work aims to cultivate a self-reflexive mode of attention, by displacing sound in time and subjecting it to a recursive disintegration that foregrounds the listener’s experience of and relationship to the dissolution of sounds that have recently passed through echoic memory.
 
-By codifying the experience of impermanence into a subjective event, the possibility for a non-conceptual metacognitive engagement with the perceptive process of change arises, something akin to what Henri Bergson has described as interfacing with the flow of duration (2014).
+By codifying the experience of impermanence into a subjective event, the possibility for a non-conceptual metacognitive engagement with the perceptive process of change arises, something akin to what Henri Bergson has described as interfacing with the flow of duration.
 
 It uses a Bela board (https://bela.io/) with an HC-SR04 proximity sensor, force sensing resistor, electret mic and 2 small speaker cones.
 
