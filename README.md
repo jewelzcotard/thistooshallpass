@@ -19,7 +19,7 @@ It uses a Bela board (https://bela.io/) with an HC-SR04 proximity sensor, force 
 
 Pure Data patch/visual score:
 
-![score](/score.jpg?raw=true "score")
+![score](/score2.jpg?raw=true "score")
 
 -------------------------
 
